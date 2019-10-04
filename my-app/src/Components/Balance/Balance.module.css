@@ -1,0 +1,20 @@
+.balance {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-width: 1200px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.balance__text {
+  width: 130px;
+  height: 15px;
+  color: #5c6975;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 0.48px;
+}
